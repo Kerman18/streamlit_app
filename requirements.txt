@@ -114,6 +114,7 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2025.2
+pywin32==310
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.3.0
@@ -175,4 +176,5 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
 wrapt==2.0.0
+
 
